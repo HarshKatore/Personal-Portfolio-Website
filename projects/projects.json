@@ -1,13 +1,12 @@
 [
- 
   {
     "name": "COVILEARN",
     "desc": "A COLLEGE EDTECH WEB-APPLICATION",
     "image": "proj1.avif",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://edtech-web-app.vercel.app",
+      "code": "https://github.com/HarshKatore/Edtech_WebApp_Project_FRONTEND"
     }
   },
   {
@@ -16,8 +15,8 @@
     "image": "proj2.png",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://book-my-book-webapp.onrender.com",
+      "code": "https://github.com/HarshKatore/BOOK_MY_BOOK-Second-hand-book-marketplace-webapp"
     }
   },
   {
@@ -26,8 +25,8 @@
     "image": "proj3.jfif",
     "category": "mern",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://e-library-webapp.netlify.app",
+      "code": "https://github.com/HarshKatore/E-Library-Full-Stack"
     }
   },
   {
@@ -36,10 +35,8 @@
     "image": "proj4.png",
     "category": "basicweb",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://harshkatore-personal-portfolio-website.vercel.app/",
+      "code": "https://github.com/HarshKatore/Personal-Portfolio-Website"
     }
   }
-
 ]
-
