@@ -32,7 +32,7 @@
   },
   {
     "name": "Personal Portfolio Website",
-    "desc": "A static portfolio website made using HTML, CSS, JS",
+    "desc": "A static portfolio website made using HTML, CSS, JS, Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON",
     "image": "proj4.png",
     "category": "basicweb",
     "links": {
