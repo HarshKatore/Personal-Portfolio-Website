@@ -1,0 +1,45 @@
+[
+ 
+  {
+    "name": "COVILEARN",
+    "desc": "A COLLEGE EDTECH WEB-APPLICATION",
+    "image": "proj1",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "BOOKMYBOOK ",
+    "desc": "A SECOND HAND BOOK COMMERCE WEBAPP",
+    "image": "proj2",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "ELIBRARY",
+    "desc": " AN ADVANCED LIBRARY MANAGER",
+    "image": "proj3",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Personal Portfolio Website",
+    "desc": "A static portfolio website made using HTML, CSS, JS",
+    "image": "proj4",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+
+]
+
