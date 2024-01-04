@@ -3,7 +3,7 @@
   {
     "name": "COVILEARN",
     "desc": "A COLLEGE EDTECH WEB-APPLICATION",
-    "image": "proj1",
+    "image": "proj1.avif",
     "category": "mern",
     "links": {
       "view": "",
@@ -13,7 +13,7 @@
   {
     "name": "BOOKMYBOOK ",
     "desc": "A SECOND HAND BOOK COMMERCE WEBAPP",
-    "image": "proj2",
+    "image": "proj2.png",
     "category": "mern",
     "links": {
       "view": "",
@@ -23,7 +23,7 @@
   {
     "name": "ELIBRARY",
     "desc": " AN ADVANCED LIBRARY MANAGER",
-    "image": "proj3",
+    "image": "proj3.jfif",
     "category": "mern",
     "links": {
       "view": "",
@@ -33,7 +33,7 @@
   {
     "name": "Personal Portfolio Website",
     "desc": "A static portfolio website made using HTML, CSS, JS",
-    "image": "proj4",
+    "image": "proj4.png",
     "category": "basicweb",
     "links": {
       "view": "",
