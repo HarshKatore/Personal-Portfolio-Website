@@ -1,8 +1,8 @@
 [
   {
     "name": "COVILEARN",
-    "desc": "A COLLEGE EDTECH WEB-APPLICATION",
-    "image": "proj1.avif",
+    "desc": "A COLLEGE EDTECH WEB-APPLICATION made using MERN stack and integrated with various features making this app more fratured and special.",
+    "image": "proj1.png",
     "category": "mern",
     "links": {
       "view": "https://edtech-web-app.vercel.app",
@@ -11,7 +11,7 @@
   },
   {
     "name": "BOOKMYBOOK ",
-    "desc": "A SECOND HAND BOOK COMMERCE WEBAPP",
+    "desc": "A SECOND HAND BOOK COMMERCE WEBAPP made using MERN stack and integrated with various features making this app more fratured and special.",
     "image": "proj2.png",
     "category": "mern",
     "links": {
@@ -21,8 +21,8 @@
   },
   {
     "name": "ELIBRARY",
-    "desc": " AN ADVANCED LIBRARY MANAGER",
-    "image": "proj3.jfif",
+    "desc": " AN ADVANCED LIBRARY MANAGER made using MERN stack and integrated with various features making this app more fratured and special.",
+    "image": "proj3.png",
     "category": "mern",
     "links": {
       "view": "https://e-library-webapp.netlify.app",
